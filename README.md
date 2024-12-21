@@ -1,24 +1,33 @@
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<img align="middle" alt="Banner-Img" src=https://github.com/Yousfshah/Yousfshah/blob/main/Banner.jpg height="450px" />
 
-<div style="text-align: center;">
-   <img alt="Banner-Img" src="https://github.com/David9893-Data/David-Pr-sentation/blob/main/Banniere.jpg" style="max-width: 100%; height: auto;">
-</div>
+<h1 align="center">Hi 👋, I'm Yousuf Shah</h1>
+<h3 align="center">A Passionate Beginner Data Scientist From Pakistan</h3>
 
-<h1 align="center">Hi 👋, I'm David Merilus</h1>
-<h3 align="center">A Passionate BI Data Analyst</h3>
+<img align="right" alt="Banner-Img" src=https://github.com/Yousfshah/Yousfshah/blob/main/gif.gif/ height="250px" width="400px">
 
-<div style="text-align: center;">
-   <img alt="Gif" src="https://github.com/David9893-Data/David-Pr-sentation/blob/main/gif.gif" style="max-width: 100%; height: auto;">
-</div>
 
-<p style="text-align: center; word-wrap: break-word;">
-   🌱 I love learning subject about <b>AI & Data Science</b><br>
-   👨‍💻 All of my projects are available at <a href="https://github.com/David9893-Data">Explorez mon GitHub</a><br>
-   📧 How to reach me: <a href="mailto:merilusdavid@gmail.com">merilusdavid@gmail.com</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yousfshah&label=Profile%20views&color=0e75b6&style=flat" alt="yousfshah" /> </p>
+
+- 🌱 I’m currently learning **Data Science**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Yousfshah](https://github.com/Yousfshah)
+
+- 📫 How to reach me **contact.ys09@gmail.com**
+  
+<br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yousuf-shah-7ba9492b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousuf shah" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/yousufshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yousuf shah" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Stats and Contributions:</h3>
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-   <img src="https://github-readme-stats.vercel.app/api?username=david9893-data&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; height: auto;">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=david9893-data" alt="GitHub Streak" style="max-width: 100%; height: auto;">
-</div>
+<br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousfshah&show_icons=true&locale=en&layout=compact" alt="yousfshah" /></p>
+
+<br>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousfshah&show_icons=true&locale=en" alt="yousfshah" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousfshah&" alt="yousfshah" /></p>
