@@ -13,7 +13,7 @@
 
 <p style="text-align: center; word-wrap: break-word;">
    🌱 I love learning subject about <b>AI & Data Science</b><br>
-   👨‍💻 All of my projects are available at <a href="https://github.com/David9893-Data">Explorez mon GitHub</a><br>
+   - Explorez mon Portfolio Notion <a href="https://tinyurl.com/NotionPortfolioDavidM">https://tinyurl.com/NotionPortfolioDavidM</a><br>
    📧 How to reach me: <a href="mailto:merilusdavid@gmail.com">merilusdavid@gmail.com</a>
 </p>
 
