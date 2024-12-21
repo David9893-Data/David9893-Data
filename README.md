@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm David Merilus</h1>
 <h3 align="center">A Passionate BI Data Analyst</h3>
 
-<img align="right" alt="Banner-Img" src="https://github.com/Yousfshah/Yousfshah/blob/main/gif.gif" height="250px" width="400px">
+<img align="right" alt="Banner-Img" src="https://github.com/David9893-Data/David-Pr-sentation/blob/main/gif.gif" height="250px" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=david9893-data&label=Profile%20views&color=0e75b6&style=flat" alt="david9893-data" /> </p>
 
@@ -31,5 +31,7 @@
 
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=david9893-data&" alt="david9893-data" /></p>
 </div>
+
+<br>
 
 <br>
