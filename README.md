@@ -17,8 +17,13 @@
    📧 How to reach me: <a href="mailto:merilusdavid@gmail.com">merilusdavid@gmail.com</a>
 </p>
 
+<p style="text-align: center; word-wrap: break-word;">
+   👀 Profile views: <img src="https://komarev.com/ghpvc/?username=david9893-data&style=flat-square" alt="david9893-data" />
+</p>
+
 <h3 align="center">Stats and Contributions:</h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
    <img src="https://github-readme-stats.vercel.app/api?username=david9893-data&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; height: auto;">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=david9893-data" alt="GitHub Streak" style="max-width: 100%; height: auto;">
 </div>
+
