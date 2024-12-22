@@ -50,3 +50,7 @@
    <img src="https://github-readme-stats.vercel.app/api?username=david9893-data&show_icons=true&locale=en" alt="GitHub Stats" style="max-width: 100%; height: auto;">
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=david9893-data" alt="GitHub Streak" style="max-width: 100%; height: auto;">
 </div>
+
+![snake gif](https://github.com/David9893-Data/David9893-Data/blob/output/github-snake-dark.svg)
+
+
