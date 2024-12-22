@@ -32,8 +32,9 @@
 </p>
 
 <div style="text-align: center;">
-   <img alt="Gif" src="https://github.com/David9893-Data/David9893-Data/blob/main/gif.gif" style="max-width: 100%; height: auto;">
+   <img alt="Gif" src="https://github.com/David9893-Data/David9893-Data/blob/main/gif.gif" style="max-width: 60%; height: auto;">
 </div>
+
 
 <p style="text-align: center; word-wrap: break-word;">
    🌱 I love learning subject about <b>AI & Data Science</b><br>
