@@ -16,7 +16,7 @@
 
 <p style="text-align: center; word-wrap: break-word;">
    🌱 I love learning subject about <b>AI & Data Science</b><br>
-   - Explorez mon Portfolio Notion <a href="https://tinyurl.com/NotionPortfolioDavidM">https://tinyurl.com/NotionPortfolioDavidM</a><br>
+      Explore my Notion Portfolio <a href="https://tinyurl.com/NotionPortfolioDavidM">https://tinyurl.com/NotionPortfolioDavidM</a><br>
    📧 How to reach me: <a href="mailto:merilusdavid@gmail.com">merilusdavid@gmail.com</a>
 </p>
 
